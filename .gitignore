@@ -1,0 +1,7 @@
+data/
+logs/
+results/cache/
+results/probe/*.npz
+__pycache__/
+*.pyc
+.pytest_cache/

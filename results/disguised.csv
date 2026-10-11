@@ -1,0 +1,366 @@
+word,donor,donor_lin,donor_term,kind,reltype,recv,label,zipf,group,S_top,B_top,BH_top,logp_B,logp_BH,gain
+acknowledge,Anglo-Norman,French,a-,inferred,derived_from,Middle English,French,4.18,acknowledg,native,native,French,-1.1333379602328937,-0.8602228284245544,0.27311513180833924
+address,Old French,French,adrecier,inferred,derived_from,Middle English,French,4.91,address,native,French,French,-0.846363933070499,-0.35029897720926256,0.4960649558612364
+adhere,Latin,Latin,adhaerēre,inferred,derived_from,Middle English,Latin,3.57,adher,native,French,French,-2.178861771813032,-1.8488487153063784,0.3300130565066537
+adhering,Old French,French,*adherer,inferred,derived_from,Middle English,French,3.13,adher,native,native,native,-1.9853862927594355,-2.083313424627095,-0.09792713186765933
+adorn,Latin,Latin,adōrnāre,inferred,derived_from,Middle English,Latin,3.01,adorn,native,native,French,-2.841414981812271,-2.8722567500073466,-0.03084176819507567
+aide,French,French,aide,explicit,borrowed_from,English,French,3.69,aid,native,French,French,-1.004593584562241,-0.47820002836340436,0.5263935561988365
+allow,Anglo-Norman,French,allouer,inferred,derived_from,Middle English,French,5.01,allow,native,native,native,-2.924781973116136,-1.812987539349073,1.1117944337670629
+ally,Anglo-Norman,French,alier,inferred,derived_from,Middle English,French,4.1,alli,native,native,native,-1.333939789954946,-1.4453943992738052,-0.11145460931885909
+amend,Old French,French,amender,inferred,derived_from,Middle English,French,3.55,amend,native,native,French,-1.7578595039356808,-1.0703917723865255,0.6874677315491553
+apply,Old French,French,applier,inferred,derived_from,Middle English,French,4.81,appli,native,native,French,-1.2249496837584821,-1.1325554736543855,0.09239421010409665
+askew,Old Norse,Old Norse,á ská,inferred,derived_from,English,Norse,2.72,askew,native,native,native,-1.3791231748678174,-1.1429584940299011,0.2361646808379163
+attend,Old French,French,atendre,inferred,derived_from,Middle English,French,4.55,attend,native,native,French,-1.0228689717707244,-0.6758491973107894,0.34701977445993504
+attest,Middle French,French,attester,explicit,borrowed_from,English,French,3.25,attest,native,French,French,-0.8625651690710106,-0.6254100470020697,0.23715512206894085
+ave,Latin,Latin,ave,inferred,derived_from,English,Latin,4.04,ave,native,native,native,-3.650465726091771,-2.6711144342569986,0.9793512918347722
+award,Anglo-Norman,French,awarder,inferred,derived_from,Middle English,French,4.88,award,native,native,French,-1.5550681387239733,-1.0672633213492975,0.48780481737467585
+awe,Old Norse,Old Norse,agi,inferred,derived_from,Middle English,Norse,3.8,awe,native,native,native,-2.0511926720971774,-1.76071969941549,0.2904729726816875
+beagle,Middle French,French,beegueule,inferred,derived_from,English,French,3.06,beagl,native,Dutch,Dutch,-2.5660731662233682,-2.4290017862492403,0.13707137997412788
+beaker,Old Norse,Old Norse,bikarr,inferred,derived_from,Middle English,Norse,2.8,beaker,native,Dutch,Dutch,-2.1973142399245686,-2.7857341408546614,-0.5884199009300928
+beast,Old French,French,beste,inferred,derived_from,Middle English,French,4.29,beast,native,native,native,-3.1422644680057603,-2.6875707529914337,0.45469371501432665
+beau,French,French,beau,explicit,borrowed_from,English,French,3.58,beau,native,native,Japanese,-1.9228951086451078,-1.4568169315762622,0.4660781770688456
+bedlam,Ancient Greek,Greek,Βηθλεέμ,inferred,derived_from,English,Greek,2.69,bedlam,native,native,native,-3.140558714861534,-2.6704212622043935,0.47013745265714046
+beef,Anglo-Norman,French,beof,inferred,derived_from,Middle English,French,4.29,beef,native,native,native,-3.4675305862367134,-2.54489823561842,0.9226323506182932
+beet,Latin,Latin,bēta,inferred,derived_from,Old English,Latin,3.05,beet,native,native,native,-4.954928093740647,-4.226257162687886,0.7286709310527613
+behemoth,Late Latin,Latin,behemoth,inferred,derived_from,Middle English,Latin,2.97,behemoth,native,Greek,Greek,-3.1157625537432283,-2.997016336812378,0.11874621693085041
+belfry,Old French,French,belfroi,inferred,derived_from,Middle English,French,2.56,belfri,native,German,native,-2.4112191763873834,-1.9040189987942016,0.5072001775931818
+belvedere,Italian,Italian,belvedere,explicit,borrowed_from,English,Italian,2.79,belveder,native,native,Italian,-2.038941591341903,-0.42662443190054394,1.612317159441359
+benefit,Anglo-Norman,French,benfet,inferred,derived_from,Middle English,French,4.82,benefit,native,native,French,-1.1884772937522334,-0.7444839047271984,0.44399338902503505
+bennet,Old French,French,benëit,inferred,derived_from,Middle English,French,3.1,bennet,native,native,native,-1.5563751800703074,-1.724280896636955,-0.16790571656664754
+bes,Latin,Latin,bes,explicit,borrowed_from,Middle English,Latin,2.9,bes,native,native,native,-3.117184272063001,-2.7207404513261144,0.39644382073688655
+bet,Old French,French,abeter,inferred,derived_from,Old English,French,4.79,bet,native,native,native,-2.683777730965139,-3.561086692363511,-0.8773089613983718
+bevel,Medieval Latin,Latin,*badāre,inferred,derived_from,English,Latin,2.61,bevel,native,native,native,-3.8302624422519282,-3.6057601182639316,0.22450232398799663
+bishop,Vulgar Latin,Latin,biscopus,inferred,derived_from,Old English,Latin,4.38,bishop,native,native,native,-3.2611266496969673,-2.117680706283671,1.1434459434132962
+bland,Latin,Latin,blandus,explicit,borrowed_from,English,Latin,3.5,bland,native,native,Dutch,-4.083326252247103,-3.5993313359115535,0.48399491633554925
+blend,Old Norse,Old Norse,blanda,inferred,derived_from,Middle English,Norse,3.95,blend,native,native,Norse,-1.407088591410091,-0.9991620420794725,0.40792654933061856
+blight,Old Norse,Old Norse,blikna,inferred,derived_from,Middle English,Norse,3.24,blight,native,native,native,-2.5587358602444135,-1.6406155538783431,0.9181203063660703
+blond,Middle French,French,blond,explicit,borrowed_from,English,French,3.55,blond,native,native,native,-2.4090569928272147,-3.0694674957725208,-0.660410502945306
+bloom,Old Norse,Old Norse,blóm,inferred,derived_from,Middle English,Norse,3.93,bloom,native,native,native,-1.9256333555015173,-1.4856830358353068,0.43995031966621045
+bomb,French,French,bombe,explicit,borrowed_from,English,French,4.6,bomb,native,native,Dutch,-2.776502206424182,-2.5769037041088048,0.19959850231537724
+bonny,Old French,French,bon,inferred,derived_from,Middle English,French,2.84,bonni,native,native,native,-1.7059227015062097,-2.1299068815182696,-0.42398418001205984
+booth,Old Norse,Old Norse,búð,inferred,derived_from,Middle English,Norse,4.1,booth,native,native,native,-1.227075296446982,-1.7102261119607756,-0.4831508155137936
+boreal,Latin,Latin,boreālis,explicit,borrowed_from,English,Latin,2.69,boreal,native,native,Latin,-1.741327037975296,-1.1586517216490975,0.5826753163261986
+bound,Old Norse,Old Norse,búinn,inferred,derived_from,Middle English,Norse,4.46,bound,native,native,native,-1.642466772987519,-1.2079936759300915,0.43447309705742754
+bowel,Middle French,French,bouel,explicit,borrowed_from,English,French,3.55,bowel,native,native,native,-3.0396676691167053,-2.7426057671918773,0.29706190192482795
+bream,Old French,French,breme,inferred,derived_from,Middle English,French,2.69,bream,native,native,native,-3.3058138907326056,-3.103887501881171,0.20192638885143444
+brewery,Dutch,Dutch,brouwerij,inferred,derived_from,English,Dutch,3.66,breweri,native,native,native,-2.7788300400796526,-2.400511976813526,0.3783180632661267
+brink,Old Norse,Old Norse,*brenka,inferred,derived_from,Middle English,Norse,3.51,brink,native,native,native,-1.8375566814541324,-1.4186514889454749,0.41890519250865754
+broach,Old French,French,broche,inferred,derived_from,Middle English,French,2.62,broach,native,Spanish,Norse,-2.405525864735126,-2.236899580076631,0.16862628465849516
+buckwheat,Middle Low German,Low German,bōkwête,inferred,derived_from,English,Dutch,2.79,buckwheat,native,native,native,-2.0214438036905764,-2.738228018384838,-0.7167842146942616
+bushel,Old French,French,boissel,inferred,derived_from,Middle English,French,2.79,bushel,native,Dutch,Dutch,-2.8973120912166395,-3.3572716073003406,-0.4599595160837011
+cashew,French,French,acajou,explicit,borrowed_from,English,French,2.75,cashew,native,Arabic,Arabic,-2.7518275642941274,-2.1032941874221787,0.6485333768719488
+ch,Japanese,Japanese,チャンネル,explicit,borrowed_from,English,Japanese,3.95,ch,native,Indic,Indic,-4.209952505027245,-4.928751870116066,-0.7187993650888211
+cheat,Old French,French,escheoiter,inferred,derived_from,English,French,4.06,cheat,native,native,native,-1.816383483668518,-2.1464385894066216,-0.3300551057381036
+cherry,Anglo-Norman,French,cherise,inferred,derived_from,Middle English,French,4.18,cherri,native,native,native,-1.1483609408809978,-1.702494407716824,-0.5541334668358262
+chess,Old French,French,eschés,inferred,derived_from,Middle English,French,3.94,chess,native,native,German,-1.3273431736712673,-1.8224988651789782,-0.4951556915077109
+chop,Hindi,Hindi,छाप,explicit,borrowed_from,Middle English,Indic,3.77,chop,native,native,native,-2.635567699277397,-2.1266628156769847,0.5089048836004122
+chutney,Hindi,Hindi,चटनी,explicit,borrowed_from,English,Indic,2.74,chutney,native,Spanish,Indic,-2.1117360739222346,-0.26505258035115675,1.8466834935710779
+clear,Anglo-Norman,French,cler,inferred,derived_from,Middle English,French,5.25,clear,native,native,native,-2.4391977480351326,-1.9801894371291817,0.45900831090595084
+clock,Middle Dutch,Dutch,clocke,inferred,derived_from,Middle English,Dutch,4.43,clock,native,native,native,-1.3079796538800543,-1.2235277491529355,0.08445190472711883
+clove,Old French,French, (de ),inferred,derived_from,Middle English,French,2.91,clove,native,Dutch,native,-2.9588051357652154,-2.2239437320747077,0.7348614036905077
+clown,Latin,Latin,colōnus,inferred,derived_from,English,Latin,3.93,clown,native,native,native,-5.282096223745549,-4.309092368581186,0.9730038551643636
+coward,Old French,French,coart,inferred,derived_from,Middle English,French,3.67,coward,native,native,native,-1.7239702630663862,-1.430216553951243,0.2937537091151432
+creed,Latin,Latin,crēdō,inferred,derived_from,Old English,Latin,3.7,creed,native,native,Norse,-2.8977252854618407,-3.103715518937856,-0.2059902334760153
+crew,Old French,French,creue,inferred,derived_from,Middle English,French,4.7,crew,native,native,native,-2.387193055177425,-2.032252122893213,0.3549409322842121
+crown,Anglo-Norman,French,fro,inferred,derived_from,Middle English,French,4.56,crown,native,native,native,-2.1909570229574906,-1.6475523719639389,0.5434046509935517
+curfew,Old French,French,cuevre-fu,inferred,derived_from,Middle English,French,3.37,curfew,native,native,native,-1.6185513405067689,-1.730934992530086,-0.11238365202331724
+dally,Anglo-Norman,French,delaier,inferred,derived_from,Middle English,French,2.78,dalli,native,Norse,Norse,-2.5588614619304137,-2.7525210109450065,-0.1936595490145927
+dave,Old Norse,Old Norse,deyfa,inferred,derived_from,Middle English,Norse,4.44,dave,native,Indic,native,-1.8101573949009802,-2.112407394801616,-0.30224999990063584
+daze,Old Norse,Old Norse,*dasa,inferred,derived_from,English,Norse,2.89,daze,native,native,native,-2.4235227150811323,-1.893202417905859,0.5303202971752732
+dean,Anglo-Norman,French,deen,inferred,derived_from,Middle English,French,4.4,dean,native,native,native,-1.8476565085485122,-1.6567407897050976,0.19091571884341452
+defend,Old French,French,defendre,inferred,derived_from,Middle English,French,4.47,defend,native,French,French,-1.0885895707745965,-0.6998226790880232,0.3887668916865733
+delay,Anglo-Norman,French,delaier,inferred,derived_from,Middle English,French,4.4,delay,native,native,native,-1.5718983144009229,-1.2249217734509934,0.34697654094992947
+delight,Old French,French,deleiter,inferred,derived_from,Middle English,French,3.97,delight,native,native,native,-2.4871141422194474,-1.6319953084508776,0.8551188337685698
+depend,Old French,French,dependre,inferred,derived_from,Middle English,French,4.2,depend,native,French,French,-1.0618525054272294,-0.9461234733493121,0.1157290320779173
+dewan,Hindi,Hindi,दीवान,explicit,borrowed_from,English,Indic,2.5,dewan,native,Japanese,Indic,-1.5810957542554571,-0.45492676526952125,1.1261689889859359
+dinghy,Bengali,Bengali,ডিঙ্গা,explicit,borrowed_from,English,Indic,2.83,dinghi,native,native,Dutch,-3.071491422471229,-2.7841995172853693,0.2872919051858598
+disallow,Anglo-Norman,French,desalouer,inferred,derived_from,Middle English,French,2.57,disallow,native,French,French,-1.4414713568343083,-1.0529007490894862,0.3885706077448221
+dishonest,Old French,French,deshoneste,inferred,derived_from,Middle English,French,3.52,dishonest,native,French,French,-0.9080582249662172,-0.9761077562192123,-0.06804953125299507
+divest,Middle French,French,devester,inferred,derived_from,English,French,2.88,divest,native,French,French,-1.0142024614839877,-1.039159891716535,-0.024957430232547262
+dome,Middle French,French,dome,explicit,borrowed_from,English,French,3.9,dome,native,native,native,-2.4360191468924284,-1.7363695412640643,0.6996496056283641
+dress,Anglo-Norman,French,dresser,inferred,derived_from,English,French,4.76,dress,native,native,native,-1.6991228900125834,-1.3709101564527397,0.3282127335598437
+drill,Middle Dutch,Dutch,drillen,inferred,derived_from,English,Dutch,4.09,drill,native,native,Dutch,-1.5501053795985757,-0.5146577009033579,1.0354476786952178
+drury,Old French,French,druerie,inferred,derived_from,English,French,2.97,druri,native,native,Norse,-2.2317509914712534,-2.0573000232343785,0.1744509682368749
+easel,Dutch,Dutch,ezel,explicit,borrowed_from,English,Dutch,2.68,easel,native,German,Dutch,-1.457769989602366,-1.4906087724078296,-0.03283878280546371
+embellish,Old French,French,embellir,inferred,derived_from,Middle English,French,2.55,embellish,native,French,French,-1.224093302674992,-0.8598626462901708,0.3642306563848212
+ert,Old Norse,Old Norse,erta,inferred,derived_from,Middle English,Norse,2.52,ert,native,German,German,-2.379792736916815,-2.746824689555937,-0.36703195263912214
+etch,Dutch,Dutch,etsen,explicit,borrowed_from,English,Dutch,2.78,etch,native,native,native,-1.115939445612927,-1.5097075560787268,-0.39376811046579974
+ethereal,Latin,Latin,aetherius,explicit,borrowed_from,English,Latin,3.2,ether,native,native,Latin,-1.7637522485957078,-1.3586961451220914,0.4050561034736164
+exceed,Old French,French,exceder,inferred,derived_from,Middle English,French,3.92,exceed,native,native,French,-1.2938360582563446,-0.9997986481144518,0.2940374101418928
+eyre,Old French,French,erre,inferred,derived_from,Middle English,French,3.13,eyr,native,native,Norse,-2.8407480308290007,-1.867679588039167,0.9730684427898337
+fail,Anglo-Norman,French,faillir,inferred,derived_from,Middle English,French,4.61,fail,native,native,native,-1.4305114443895819,-1.7380947589557727,-0.3075833145661908
+fame,Old French,French,fame,inferred,derived_from,Middle English,French,4.34,fame,native,French,native,-1.0029015950356457,-1.2323046646208509,-0.22940306958520518
+family,Latin,Latin,familia,inferred,derived_from,English,Latin,5.66,famili,native,native,native,-2.476242240940293,-2.53815003850002,-0.06190779755972686
+fanfare,French,French,fanfare,explicit,borrowed_from,English,French,3.2,fanfar,native,Italian,Italian,-2.0394450708742955,-1.998630601094601,0.04081446977969461
+fawn,Old French,French,faon,inferred,derived_from,Middle English,French,3.02,fawn,native,Norse,Norse,-3.7043287276591683,-3.3588279426749543,0.345500784984214
+feast,Old French,French,feste,inferred,derived_from,Middle English,French,3.95,feast,native,native,native,-2.003675429654226,-2.026821955217482,-0.023146525563256137
+feat,Anglo-Norman,French,fet,inferred,derived_from,English,French,3.99,feat,native,native,native,-1.8522047275123887,-1.537510168131012,0.3146945593813768
+fee,Old French,French,fieu,inferred,derived_from,Middle English,French,4.51,fee,native,native,native,-2.006394033912873,-1.577243398447669,0.42915063546520416
+fellow,Old Norse,Old Norse,félagi,inferred,derived_from,Middle English,Norse,4.76,fellow,native,native,native,-2.4901406420580865,-3.2255804431164172,-0.7354398010583307
+fend,Old French,French,deffendre,inferred,derived_from,Middle English,French,3.21,fend,native,native,native,-2.8313239422672556,-2.9268414563796994,-0.0955175141124438
+fess,Old French,French,fesse,inferred,derived_from,English,French,2.66,fess,native,Arabic,German,-2.68504001317881,-2.198653785040502,0.4863862281383078
+fife,German,German,Pfeife,explicit,borrowed_from,English,German,3.38,fife,native,Italian,native,-3.0769147902081726,-2.65301844467514,0.42389634553303246
+filly,Old Norse,Old Norse,fylja,inferred,derived_from,English,Norse,3.15,filli,native,native,native,-2.8306422104976523,-2.1162298874379846,0.7144123230596677
+finesse,Middle French,French,finesse,inferred,derived_from,Middle English,French,3.18,finess,native,French,French,-0.6992858976878368,-0.5289534671465086,0.17033243054132818
+flat,Old Norse,Old Norse,flatr,inferred,derived_from,Middle English,Norse,4.72,flat,native,native,native,-2.2426952393135555,-1.153838532065853,1.0888567072477024
+flinch,Middle French,French,flenchir,explicit,borrowed_from,English,French,2.92,flinch,native,Norse,Norse,-2.9699996168344533,-3.953457898014816,-0.9834582811803627
+flor,Spanish,Spanish,flor,explicit,borrowed_from,English,Spanish,2.74,flor,native,Norse,Italian,-2.5692773016025607,-3.5743614075255676,-1.005084105923007
+flounder,Anglo-Norman,French,floundre,inferred,derived_from,Middle English,French,2.78,flounder,native,native,Dutch,-2.222298898861751,-2.8281154491864635,-0.6058165503247124
+flower,Anglo-Norman,French,flur,inferred,derived_from,Middle English,French,4.42,flower,native,native,native,-1.4996062665735794,-1.2342030588536024,0.26540320771997705
+folly,Old French,French,folie,inferred,derived_from,English,French,3.34,folli,native,native,native,-2.7973100968565006,-2.1538381533690267,0.6434719434874738
+foolhardy,Old French,French,fol hardi,inferred,derived_from,Middle English,French,2.57,foolhardi,native,French,native,-1.4459042334027132,-1.4668448160826246,-0.02094058267991139
+foray,Old French,French,forrier,inferred,derived_from,Middle English,French,3.04,foray,native,native,native,-2.066215947784008,-1.931274090811939,0.13494185697206884
+foreclose,Old French,French,forclos,inferred,derived_from,Middle English,French,2.51,foreclos,native,Latin,Latin,-1.236711102950558,-1.6591394048743253,-0.42242830192376735
+forest,Old French,French,forest,inferred,derived_from,Middle English,French,4.7,forest,native,native,native,-3.090580159977566,-2.5659526943980704,0.5246274655794956
+forester,Old French,French,forestier,inferred,derived_from,English,French,2.98,forest,native,German,native,-2.419938718203388,-1.9973057699975196,0.4226329482058684
+forestry,Old French,French,foresterie,inferred,derived_from,English,French,3.69,forestri,native,native,French,-0.9212640796857935,-0.8148887034822071,0.10637537620358639
+forge,Old French,French,forge,inferred,derived_from,Middle English,French,3.78,forg,native,native,native,-1.7550963875966838,-1.7043210084402716,0.05077537915641228
+forger,Old French,French,forgiere,inferred,derived_from,Middle English,French,2.51,forger,native,Dutch,French,-1.4598695817425043,-1.1562661408870172,0.3036034408554871
+form,Old French,French,forme,inferred,derived_from,Middle English,French,5.31,form,native,native,native,-2.305045717102292,-1.7228300519349353,0.5822156651673567
+fort,Middle French,French,fort,inferred,derived_from,Middle English,French,4.45,fort,native,native,native,-2.668240312190749,-1.898269112642686,0.7699711995480631
+forte,Latin,Latin,fortis,inferred,derived_from,English,Latin,3.24,fort,native,native,Italian,-3.0389708048855684,-3.1160584085340157,-0.07708760364844736
+fortress,Old French,French,forteresce,inferred,derived_from,English,French,3.77,fortress,native,French,French,-1.1057971286387422,-0.5984568044640631,0.5073403241746791
+fortune,Old French,French,fortune,inferred,derived_from,Middle English,French,4.3,fortun,native,French,French,-1.0053624375162962,-0.6415584960981506,0.36380394141814554
+found,Old French,French,founder,inferred,derived_from,Middle English,French,5.68,found,native,native,native,-2.5659997804190944,-3.0733599485930605,-0.5073601681739661
+foundry,French,French,fonderie,explicit,borrowed_from,English,French,3.32,foundri,native,native,native,-1.6634545086679997,-1.7500153219500936,-0.08656081328209386
+fraught,Middle Dutch,Dutch,vracht,inferred,derived_from,Middle English,Dutch,3.12,fraught,native,native,native,-2.7257168819482165,-2.7999227795666317,-0.07420589761841523
+fray,Old French,French,fraier,inferred,derived_from,Middle English,French,3.28,fray,native,Norse,Norse,-2.905372380929142,-2.4991448505895093,0.40622753033963255
+fringe,Old French,French,frenge,inferred,derived_from,Middle English,French,3.86,fring,native,native,native,-1.7889597381602333,-1.8772392910487334,-0.08827955288850009
+froth,Old Norse,Old Norse,froða,inferred,derived_from,Middle English,Norse,2.75,froth,native,Norse,Norse,-0.7225613294748134,-0.7591722351460278,-0.03661090567121439
+frown,Old French,French,frognier,inferred,derived_from,Middle English,French,3.26,frown,native,Dutch,Dutch,-3.362167710288763,-3.2392674051762764,0.1229003051124864
+fund,French,French,fond,explicit,borrowed_from,English,French,4.82,fund,native,native,native,-2.3726905971682983,-1.5089874254186055,0.8637031717496928
+funk,Vulgar Latin,Latin,fūmicāre,inferred,derived_from,English,Latin,3.71,funk,native,German,German,-5.3335182202908165,-5.17784964333075,0.15566857696006675
+garland,Old French,French,garlande,inferred,derived_from,Middle English,French,3.46,garland,native,native,native,-2.4925926168042327,-1.8355118954599827,0.65708072134425
+gelding,Old Norse,Old Norse,geldingr,inferred,derived_from,Middle English,Norse,2.73,geld,native,native,native,-1.0683149794680291,-1.4800146691625171,-0.411699689694488
+gingerbread,Old French,French,gingembras,inferred,derived_from,Middle English,French,3.03,gingerbread,native,German,German,-1.4708779060995818,-2.404817945207368,-0.9339400391077861
+gland,French,French,glande,explicit,borrowed_from,English,French,3.38,gland,native,native,native,-3.008339718744177,-2.60076700425313,0.4075727144910468
+glean,Anglo-Norman,French,glener,inferred,derived_from,Middle English,French,2.73,glean,native,native,native,-3.0350331595209443,-3.459876284313977,-0.4248431247930329
+golf,Middle Dutch,Dutch,colve,inferred,derived_from,English,Dutch,4.56,golf,native,native,native,-3.1257707501006418,-1.8521716373415589,1.2735991127590829
+gout,Old French,French,gote,inferred,derived_from,Middle English,French,3.06,gout,native,Norse,Norse,-2.1144885524397683,-2.21569947736986,-0.10121092493009165
+govern,Old French,French,governer,inferred,derived_from,Middle English,French,3.67,govern,native,French,French,-1.0901418390133872,-0.7163124799463734,0.37382935906701387
+governess,Old French,French,governeresse,inferred,derived_from,Middle English,French,2.87,gover,native,native,native,-1.6231164262719346,-1.2031383868031325,0.4199780394688022
+grand,Anglo-Norman,French,graunt,inferred,derived_from,Middle English,French,4.91,grand,native,native,native,-2.646234550360317,-1.6997328289561124,0.9465017214042046
+gravelly,Old French,French,gravel,inferred,derived_from,Middle English,French,2.56,gravelli,native,native,native,-2.412800739058966,-2.521346419821856,-0.10854568076288995
+greaves,Middle Low German,Low German,grêve,inferred,derived_from,English,Dutch,2.8,greav,native,native,native,-2.4487541759338005,-2.009695442728561,0.43905873320523936
+griddle,Anglo-Norman,French,gredil,inferred,derived_from,Middle English,French,2.52,griddl,native,native,Dutch,-3.4595849006624912,-3.474047553348116,-0.014462652685624633
+growl,Old French,French,groler,inferred,derived_from,Middle English,French,3.14,growl,native,native,Norse,-4.470103009928109,-4.269469263044253,0.20063374688385593
+haddock,Anglo-Norman,French,hadoc,inferred,derived_from,Middle English,French,2.83,haddock,native,native,native,-4.330774506103191,-3.984960416691833,0.34581408941135816
+hardy,Old French,French,hardi,inferred,derived_from,Middle English,French,3.86,hardi,native,native,native,-2.3237489484257488,-1.9583753175676593,0.3653736308580895
+harness,Anglo-Norman,French,harneis,inferred,derived_from,Middle English,French,3.67,har,native,native,native,-3.6610029553509262,-3.1453952526747786,0.5156077026761476
+harpy,Middle French,French,harpie,inferred,derived_from,English,French,2.5,harpi,native,Greek,Greek,-3.598563033874511,-3.4885437034651963,0.11001933040931489
+harrow,Old Norse,Old Norse,harfr,inferred,derived_from,Middle English,Norse,3.08,harrow,native,native,native,-2.3798743787504755,-1.7096959649044219,0.6701784138460536
+haste,Old French,French,haste,inferred,derived_from,Middle English,French,3.37,hast,native,native,native,-1.8894198611218445,-1.8389435994218903,0.05047626169995412
+haughty,Old French,French,haut,inferred,derived_from,Middle English,French,2.68,haughti,native,native,native,-2.1573697713648152,-1.2194926434956643,0.9378771278691509
+hearse,Old French,French,herce,inferred,derived_from,Middle English,French,2.8,hears,native,native,native,-2.364023817035221,-1.6194615321966206,0.7445622848386002
+helmet,Old French,French,helmet,inferred,derived_from,Middle English,French,4.02,helmet,native,native,native,-2.776684619707073,-2.091791772050266,0.684892847656807
+hep,German,German,hep,explicit,borrowed_from,English,German,2.86,hep,native,native,native,-4.166956514064847,-3.8745511127240437,0.29240540134080284
+herald,Anglo-Norman,French,heraud,inferred,derived_from,Middle English,French,3.95,herald,native,native,native,-2.273687422349304,-1.642021155041817,0.6316662673074873
+heresy,Old French,French,heresie,inferred,derived_from,Middle English,French,3.35,heresi,native,French,French,-1.2480339219744228,-0.8708593691686064,0.37717455280581635
+hit,Old Norse,Old Norse,hitta,inferred,derived_from,Middle English,Norse,5.37,hit,native,native,native,-1.096787565989318,-0.9495787727639571,0.14720879322536096
+hoax,Latin,Latin,iocus,inferred,derived_from,English,Latin,3.53,hoax,native,native,Greek,-4.049034887252472,-3.292616665645221,0.7564182216072513
+hombre,Spanish,Spanish,hombre,explicit,borrowed_from,English,Spanish,2.72,hombr,native,German,Spanish,-2.6818922930644473,-0.5326803348197613,2.149211958244686
+homily,Old French,French,omelie,inferred,derived_from,Middle English,French,2.63,homili,native,German,Greek,-2.344109507829564,-1.8820949737721995,0.4620145340573647
+honest,Old French,French,honeste,inferred,derived_from,Middle English,French,4.73,honest,native,native,native,-1.7530690463730167,-1.4720861042152449,0.28098294215777186
+honesty,Old French,French,honesté,inferred,derived_from,Middle English,French,3.99,honesti,native,native,native,-1.1330466023669616,-1.148448908966609,-0.015402306599647364
+horde,Middle French,French,horde,inferred,derived_from,English,French,3.23,hord,native,native,French,-1.826297955669314,-1.3084671570111592,0.5178307986581547
+horrid,Latin,Latin,horridus,explicit,borrowed_from,English,Latin,3.28,horrid,native,native,native,-2.2399605676489354,-1.6409982314077884,0.5989623362411469
+horst,German,German,Horst,explicit,borrowed_from,English,German,2.85,horst,native,German,German,-0.9569996903932706,-0.12994568229059286,0.8270540081026777
+host,Old French,French,oste,inferred,derived_from,Middle English,French,4.77,host,native,native,native,-2.670802562536483,-1.9478575198828088,0.7229450426536741
+hostess,Middle French,French,hostesse,inferred,derived_from,Middle English,French,3.35,hostess,native,native,native,-2.2717650226065063,-1.680513425643047,0.5912515969634593
+hostile,Middle French,French,hostile,explicit,borrowed_from,English,French,4.07,hostil,native,French,French,-1.0044404189283076,-0.813796374753597,0.1906440441747106
+hour,Anglo-Norman,French,houre#Old_French,inferred,derived_from,Middle English,French,5.18,hour,native,native,native,-2.09325749750593,-1.9820790405952153,0.11117845691071482
+ide,French,French,ide,explicit,borrowed_from,English,French,3.14,ide,native,native,native,-2.953739000852537,-2.3391822298426077,0.6145567710099291
+ideal,French,French,idéal,inferred,derived_from,English,French,4.44,ideal,native,French,French,-1.2386532356358348,-0.8570208606098795,0.3816323750259554
+inch,Latin,Latin,uncia,explicit,borrowed_from,Old English,Latin,4.49,inch,native,native,native,-2.5044015471713608,-2.7256143105392265,-0.22121276336786577
+ingress,Latin,Latin,ingressus,inferred,derived_from,English,Latin,2.79,ingress,native,Latin,Latin,-1.2355409894801028,-0.6736433335135428,0.56189765596656
+ink,Old French,French,enque,inferred,derived_from,Middle English,French,4.07,ink,native,native,Dutch,-4.108341810555822,-4.007152835945695,0.10118897461012644
+intend,Old French,French,entendre,inferred,derived_from,Middle English,French,4.09,intend,native,French,French,-1.0531111382162042,-0.5937827596598144,0.45932837855638975
+knife,Old Norse,Old Norse,knífr,inferred,derived_from,Middle English,Norse,4.41,knife,native,native,native,-2.5406206593752083,-2.3594176181042776,0.18120304127093068
+lanyard,Old French,French,laniere,inferred,derived_from,Middle English,French,2.65,lanyard,native,native,Dutch,-1.9177053916986733,-2.010201458031775,-0.09249606633310181
+larch,German,German,Larche,inferred,derived_from,English,German,2.55,larch,native,Norse,Italian,-3.8880176797652943,-3.8441405032608396,0.04387717650445477
+lard,Old French,French,lard,inferred,derived_from,Middle English,French,2.98,lard,native,native,French,-1.3006122902385309,-1.2459674935405505,0.05464479669798039
+lease,Anglo-Norman,French,*leser,inferred,derived_from,Middle English,French,4.17,leas,native,French,French,-1.0939545748438555,-1.1448895826713938,-0.05093500782753835
+leash,Old French,French,lesse,inferred,derived_from,Middle English,French,3.47,leash,native,native,native,-3.249519868645738,-2.842770283982007,0.4067495846637308
+lees,Old French,French,lies,inferred,derived_from,English,French,3.04,lee,native,native,native,-3.64230888352377,-3.528707111796045,0.1136017717277249
+lew,French,French,louis,inferred,derived_from,English,French,3.27,lew,native,native,native,-4.32841729348422,-4.530008998639579,-0.20159170515535862
+lewis,Old French,French,lous,inferred,derived_from,Middle English,French,4.48,lewi,native,native,native,-3.5253822470235847,-2.9596449496720756,0.5657372973515091
+lied,German,German,Lied,explicit,borrowed_from,English,German,4.21,lie,native,native,native,-3.4977377836053507,-3.022978383162671,0.4747594004426796
+lien,Middle French,French,lien,explicit,borrowed_from,English,French,3.2,lien,native,native,French,-1.6570347077128704,-1.4312741602678267,0.2257605474450437
+ligand,Latin,Latin,ligandus,explicit,borrowed_from,English,Latin,3.05,ligand,native,German,German,-1.9303953259176583,-2.462546313274682,-0.5321509873570236
+link,Old Norse,Old Norse,*hlenkr,inferred,derived_from,Middle English,Norse,4.99,link,native,native,native,-1.0841907870711578,-1.096183104243385,-0.011992317172227152
+lioness,Old French,French,leonesse,inferred,derived_from,Middle English,French,2.75,lioness,native,native,native,-2.7580350439060406,-2.2677361609884312,0.49029888291760937
+loan,Old Norse,Old Norse,lán,explicit,borrowed_from,Middle English,Norse,4.68,loan,native,Norse,Norse,-0.7760857757638618,-1.0661750271952202,-0.29008925143135833
+lobe,Middle French,French,lobe,explicit,borrowed_from,English,French,3.3,lobe,native,native,Latin,-2.2576119700212365,-2.4520352363027973,-0.1944232662815608
+low,Old Norse,Old Norse,lágr,inferred,derived_from,Middle English,Norse,5.33,low,native,native,Norse,-1.0325717965445245,-0.3691255660004801,0.6634462305440444
+meander,Latin,Latin,Maeander,explicit,borrowed_from,English,Latin,2.69,meander,native,native,native,-3.8268944237620097,-3.7969894404916733,0.029904983270336416
+meddle,Anglo-Norman,French,medler,inferred,derived_from,Middle English,French,2.85,meddl,native,native,native,-2.49922198563323,-2.5056851147594448,-0.006463129126214717
+medley,Anglo-Norman,French,medlee,inferred,derived_from,Middle English,French,3.28,medley,native,German,French,-1.7132783702511685,-1.3450082941010617,0.36827007615010676
+meek,Old Norse,Old Norse,mjúkr,inferred,derived_from,Middle English,Norse,3.32,meek,native,native,native,-1.5314265532661013,-1.9093804017907123,-0.377953848524611
+melee,French,French,mêlée,explicit,borrowed_from,English,French,3.22,mele,native,Arabic,French,-1.795301451068512,-1.1932686922758802,0.6020327587926317
+mess,Old French,French,mes,inferred,derived_from,Middle English,French,4.57,mess,native,native,native,-2.042199792161762,-2.100976047816693,-0.05877625565493094
+mire,Old Norse,Old Norse,mýrr,inferred,derived_from,Middle English,Norse,2.74,mire,native,native,native,-1.9772331359270072,-2.263275544807507,-0.2860424088804996
+mise,French,French,mise,explicit,borrowed_from,English,French,2.54,mise,native,Japanese,Japanese,-3.579449666262822,-2.03773043112378,1.541719235139042
+mister,Anglo-Norman,French,mester,inferred,derived_from,Middle English,French,3.56,mister,native,German,German,-1.914146369586832,-2.113006866677751,-0.1988604970909189
+moat,Old French,French,mote,inferred,derived_from,Middle English,French,3.12,moat,native,native,Norse,-3.083603585534694,-2.5409732720926974,0.5426303134419967
+mode,Old French,French,mode,inferred,derived_from,English,French,4.63,mode,native,French,French,-1.1125822279906914,-1.0547079979696912,0.05787423002100023
+moe,Japanese,Japanese,萌え,inferred,derived_from,English,Japanese,3.5,moe,native,Japanese,Japanese,-0.6752047381646076,-0.5942287962057388,0.08097594195886881
+mold,Old French,French,modle,inferred,derived_from,Middle English,French,3.77,mold,native,native,native,-3.136414127334387,-2.8501266862197605,0.28628744111462634
+money,Old French,French,moneie,inferred,derived_from,Middle English,French,5.64,money,native,native,native,-1.088004753214386,-1.2253493667276854,-0.1373446135132994
+morse,Middle French,French,mors,inferred,derived_from,English,French,3.52,mors,native,native,German,-1.8438818861793922,-1.8951433625677965,-0.05126147638840428
+mot,French,French,mot,inferred,derived_from,English,French,3.1,mot,native,native,Indic,-2.1947897636897196,-2.4716887746639755,-0.27689901097425595
+motley,Anglo-Norman,French,motteley,inferred,derived_from,Middle English,French,3.09,motley,native,Dutch,Dutch,-1.9426415218399902,-2.0346844584599744,-0.0920429366199842
+mould,Old French,French,modle,inferred,derived_from,Middle English,French,3.45,mould,native,native,native,-1.7987659586792435,-2.2190973873287514,-0.4203314286495079
+move,Old Northern French,French,mover,inferred,derived_from,Middle English,French,5.35,move,native,native,native,-1.187042576249103,-1.045844958075042,0.14119761817406107
+myrtle,Old French,French,myrte,inferred,derived_from,English,French,3.34,myrtl,native,native,native,-2.3154790839492194,-1.861960751671638,0.4535183322775813
+myth,Ancient Greek,Greek,μῦθος,explicit,borrowed_from,English,Greek,4.08,myth,native,Greek,Greek,-1.094293207484969,-0.629494669262031,0.46479853822293793
+nave,Latin,Latin,nāvem,inferred,derived_from,English,Latin,3.06,nave,native,French,French,-2.178897002097114,-2.16829028944168,0.010606712655434336
+near,Old Norse,Old Norse,nær,inferred,derived_from,Middle English,Norse,5.29,near,native,native,native,-2.4477203802717526,-2.182893908177457,0.26482647209429544
+neat,Anglo-Norman,French,neit,inferred,derived_from,Middle English,French,3.99,neat,native,native,native,-2.089881680645288,-2.3191884083492083,-0.22930672770392047
+nep,Latin,Latin,nepeta,inferred,derived_from,Old English,Latin,2.63,nep,native,Japanese,German,-4.316093326105672,-3.876812208036447,0.4392811180692249
+nephew,Old French,French,neveu,inferred,derived_from,Middle English,French,4.01,nephew,native,native,native,-2.4656110097404285,-2.107527900485694,0.3580831092547343
+nerve,Medieval Latin,Latin,nervus,inferred,derived_from,English,Latin,4.19,nerv,native,native,French,-2.1475306559886396,-2.004000239574753,0.14353041641388664
+nip,Middle Low German,Low German,nippen,inferred,derived_from,English,Dutch,3.32,nip,native,Dutch,Dutch,-0.9530804472914313,-0.35241566350996867,0.6006647837814626
+nye,French,French,nid,inferred,derived_from,English,French,3.32,nye,native,Japanese,Japanese,-3.8100593686699664,-3.7716787906063236,0.03838057806364281
+oblong,Latin,Latin,oblongus,inferred,derived_from,Middle English,Latin,2.93,oblong,native,native,French,-2.549871608047036,-1.9487036103850055,0.6011679976620303
+odd,Old Norse,Old Norse,oddi,inferred,derived_from,Middle English,Norse,4.42,odd,native,native,native,-2.53509528714359,-2.1192444027465243,0.41585088439706563
+ode,Middle French,French,ode,inferred,derived_from,English,French,3.31,ode,native,Japanese,native,-2.948105532374554,-1.811224417235668,1.1368811151388862
+ole,Spanish,Spanish,olé,explicit,borrowed_from,English,Spanish,3.73,ole,native,native,native,-2.1861590351002773,-3.2443303206375664,-1.0581712855372891
+om,Sanskrit,Sanskrit,ओम्,explicit,learned_borrowing_from,English,Indic,3.55,om,native,Japanese,German,-3.434884591945852,-3.4310562524323203,0.0038283395135318976
+ordeal,Medieval Latin,Latin,ordālium,inferred,derived_from,Middle English,Latin,3.47,ordeal,native,French,French,-1.8845080307812645,-1.8619615417295858,0.022546489051678664
+outlaw,Old Norse,Old Norse,útlagi,inferred,derived_from,Middle English,Norse,3.51,outlaw,native,native,native,-2.7121896604764095,-3.02606078272359,-0.3138711222471806
+overt,Anglo-Norman,French,overt,inferred,derived_from,Middle English,French,3.31,overt,native,native,native,-2.2880403472528785,-2.2301954884494815,0.05784485880339707
+peach,Old French,French,pesche,inferred,derived_from,Middle English,French,3.77,peach,native,native,Spanish,-1.4106990752512913,-1.475658760578455,-0.06495968532716367
+pearl,Old French,French,perle,inferred,derived_from,Middle English,French,4.14,pearl,native,native,native,-2.0745058670644294,-1.3015859362267523,0.7729199308376771
+pew,Middle French,French,puie,explicit,borrowed_from,Middle English,French,3.41,pew,native,native,Dutch,-2.646667507788022,-3.2262162955956453,-0.5795487878076231
+pewter,Old French,French,peautre,inferred,derived_from,Middle English,French,2.78,pewter,native,German,Dutch,-1.715568260141911,-2.0751205466334164,-0.3595522864915053
+plead,Old French,French,plaider,inferred,derived_from,Middle English,French,3.63,plead,native,native,native,-2.1960488639429787,-1.5623803371963487,0.63366852674663
+pledge,Anglo-Norman,French,plege,inferred,derived_from,Middle English,French,4.0,pledg,native,French,French,-1.1786179918273052,-0.8835171725504768,0.2951008192768284
+plight,Anglo-Norman,French,plit,inferred,derived_from,Middle English,French,3.46,plight,native,native,Norse,-1.9950704199923628,-1.7310852377184103,0.2639851822739525
+ply,Anglo-Norman,French,pli,inferred,derived_from,Middle English,French,3.15,pli,native,native,native,-2.909945888262802,-3.238211228235804,-0.3282653399730022
+prowess,Old French,French,proeche,inferred,derived_from,Middle English,French,3.35,prowess,native,German,French,-1.5186882280046534,-1.0268713549299384,0.491816873074715
+raft,Old Norse,Old Norse,raptr,inferred,derived_from,English,Norse,3.46,raft,native,native,Dutch,-1.425219800245495,-1.5822773829266292,-0.15705758268113423
+real,Old French,French,reel,inferred,derived_from,Middle English,French,5.6,real,native,native,native,-2.264469144090929,-1.8244628736261939,0.44000627046473517
+realm,Old French,French,reaume,inferred,derived_from,Middle English,French,4.06,realm,native,native,native,-2.089561288533623,-1.4726621950135945,0.6168990935200285
+redeem,Old French,French,redimer,inferred,derived_from,Middle English,French,3.53,redeem,native,Norse,French,-1.8054801966026885,-0.8670600152251597,0.9384201813775288
+redress,Anglo-Norman,French,radresser,inferred,derived_from,Middle English,French,3.15,redress,native,French,French,-0.7751707467150616,-0.4603854079494813,0.3147853387655803
+refresh,Old French,French,refrescher,inferred,derived_from,Middle English,French,3.65,refresh,native,native,French,-1.462984772879259,-1.1530323570849805,0.30995241579427857
+rehearse,Anglo-Norman,French,reherser,inferred,derived_from,Middle English,French,2.94,rehears,native,French,French,-1.1094731978892964,-1.1714956674757564,-0.06202246958645996
+rely,Old French,French,relier,inferred,derived_from,Middle English,French,4.29,reli,native,native,Norse,-1.8348481502667706,-1.651541767202222,0.18330638306454872
+remand,Middle French,French,remander,inferred,derived_from,Middle English,French,2.91,remand,native,French,French,-1.1201532004120034,-1.0020264510091557,0.11812674940284773
+render,Old French,French,rendre,inferred,derived_from,Middle English,French,3.78,render,native,native,French,-1.0878776997192456,-0.8831301390093231,0.2047475607099225
+reply,Old French,French,replier,inferred,derived_from,Middle English,French,4.5,repli,native,native,French,-1.3256172142568279,-0.7711616334776387,0.5544555807791892
+reward,Old French,French,reward,inferred,derived_from,Middle English,French,4.33,reward,native,native,French,-0.9540301863940605,-0.801557933058338,0.15247225333572245
+round,Old Northern French,French,röunt,inferred,derived_from,Middle English,French,5.14,round,native,native,native,-2.2148359192200804,-2.541742015937807,-0.3269060967177264
+rove,Old Norse,Old Norse,ráfa,inferred,derived_from,Middle English,Norse,2.86,rove,native,native,native,-1.463569691283415,-1.3851519655981952,0.07841772568521987
+sacred,Old French,French,sacrer,inferred,derived_from,Middle English,French,4.24,sacr,native,French,Latin,-1.1122488646881012,-1.1093114973101676,0.0029373673779335974
+sally,Latin,Latin,salio,inferred,derived_from,Old English,Latin,3.97,salli,native,native,native,-3.2536833003720136,-3.060384407319845,0.19329889305216863
+sane,Latin,Latin,sānus,explicit,learned_borrowing_from,English,Latin,3.67,sane,native,native,native,-2.82061356908208,-1.921149115489007,0.8994644535930729
+save,Old French,French,sauver,inferred,derived_from,Middle English,French,5.14,save,native,native,native,-1.4083838166691014,-1.356943527468642,0.05144028920045929
+search,Anglo-Norman,French,sercher,inferred,derived_from,Middle English,French,4.96,search,native,native,native,-1.6813044587001271,-1.5755297416664658,0.10577471703366137
+seat,Old Norse,Old Norse,sæti,inferred,derived_from,Middle English,Norse,4.82,seat,native,native,native,-1.9910379387954906,-1.7602664980353357,0.23077144076015488
+sever,Old French,French,sevrer,inferred,derived_from,Middle English,French,3.15,sever,native,Dutch,French,-3.040095928566368,-1.1932244139149144,1.8468715146514534
+severe,Latin,Latin,severus,inferred,derived_from,English,Latin,4.56,sever,native,native,French,-2.2031788525538687,-1.595980538225008,0.6071983143288606
+shark,German,German,Schurke,inferred,derived_from,Middle English,German,4.1,shark,native,native,native,-2.08786818378153,-3.185102168430867,-1.0972339846493373
+sharpshooter,German,German,Scharfschütze,inferred,derived_from,English,German,2.63,sharpshoot,native,native,native,-1.311820341751698,-2.5215645182653232,-1.2097441765136252
+sheer,Old Norse,Old Norse,skírr,inferred,derived_from,Middle English,Norse,4.01,sheer,native,native,native,-2.017049082825779,-2.1631892460861963,-0.14614016326041712
+shill,German,German,Schieber,inferred,derived_from,English,German,2.68,shill,native,Dutch,Dutch,-2.827322726274414,-3.124059976401068,-0.29673725012665386
+shock,Middle Dutch,Dutch,schokken,inferred,derived_from,English,Dutch,4.46,shock,native,native,native,-1.7961178073943165,-2.2089201625831345,-0.412802355188818
+shrine,Latin,Latin,scrīnium,inferred,derived_from,Old English,Latin,3.73,shrine,native,native,native,-2.788705422487529,-2.223668715414427,0.5650367070731024
+shudder,Middle Dutch,Dutch,schudderen,inferred,derived_from,Middle English,Dutch,3.11,shudder,native,native,native,-0.9446437748989117,-1.00871319318766,-0.06406941828874835
+silk,Late Latin,Latin,sēricus,inferred,derived_from,Old English,Latin,4.11,silk,native,native,native,-4.647864164896806,-3.942214413942292,0.7056497509545139
+simple,French,French,simple,inferred,derived_from,Middle English,French,5.08,simpl,native,native,French,-1.3916962555289452,-1.058961244775322,0.3327350107536231
+sire,Old French,French,sire,inferred,derived_from,Middle English,French,3.43,sire,native,Norse,Norse,-1.8531861720989218,-1.2414057829320322,0.6117803891668896
+siren,Old French,French,sereine,inferred,derived_from,Middle English,French,3.46,siren,native,native,native,-2.3710702453838146,-1.7508070882499087,0.6202631571339059
+size,Old French,French,cise,inferred,derived_from,Middle English,French,5.13,size,native,native,native,-1.8785163197827697,-1.1289904719817225,0.7495258478010471
+slim,Dutch,Dutch,slim,explicit,borrowed_from,English,Dutch,4.05,slim,native,Norse,Norse,-1.757607303656459,-1.7814116618388471,-0.02380435818238813
+sly,Old Norse,Old Norse,slǿgr,inferred,derived_from,Middle English,Norse,3.4,sli,native,native,Norse,-1.2597059365806857,-0.9074438729771979,0.3522620636034879
+smile,Old Norse,Old Norse,*smíla,inferred,derived_from,Middle English,Norse,4.64,smile,native,native,native,-2.037594710878027,-2.392795096392969,-0.35520038551494215
+smithy,Old Norse,Old Norse,smiðja,inferred,derived_from,Middle English,Norse,2.55,smithi,native,native,native,-2.053475414671381,-2.3516646110037,-0.2981891963323191
+soar,Old French,French,essorer,inferred,derived_from,Middle English,French,3.39,soar,native,Norse,Norse,-4.164562670161961,-4.152475009126797,0.012087661035163677
+sod,Middle Dutch,Dutch,zoden,inferred,derived_from,Middle English,Dutch,3.25,sod,native,native,Norse,-3.0149634604848448,-3.040017792228416,-0.02505433174357119
+sold,Middle French,French,solde,inferred,derived_from,Middle English,French,4.97,sold,native,native,native,-3.1504833407625568,-2.9136396457237144,0.2368436950388424
+solve,Latin,Latin,solvō,inferred,derived_from,Middle English,Latin,4.42,solv,native,native,native,-1.4548578748114918,-1.2542342407464044,0.20062363406508732
+sort,Old French,French,sorte,inferred,derived_from,Middle English,French,5.0,sort,native,native,French,-1.1244716978125087,-1.1377161720958142,-0.013244474283305552
+staunch,Anglo-Norman,French,estaunche,inferred,derived_from,Middle English,French,3.2,staunch,native,native,native,-1.6640581373243066,-1.5559132918907055,0.10814484543360114
+stew,Anglo-Norman,French,estouve,inferred,derived_from,Middle English,French,3.48,stew,native,native,Dutch,-4.708029145208638,-4.074414786102054,0.6336143591065841
+stipend,Old French,French,stipende,inferred,derived_from,Middle English,French,3.01,stipend,native,German,German,-1.658772161274377,-1.565939300309237,0.0928328609651401
+stole,Latin,Latin,stola,inferred,derived_from,Old English,Latin,4.21,stole,native,Dutch,native,-3.8114924514754547,-3.7388611278749986,0.0726313236004561
+stout,Old French,French,estout,inferred,derived_from,Middle English,French,3.45,stout,native,Norse,native,-2.4585212578506854,-2.9537850523774045,-0.4952637945267191
+stove,Middle Dutch,Dutch,stove,inferred,derived_from,English,Dutch,3.71,stove,native,native,native,-1.757771390541322,-1.9870876271458844,-0.22931623660456246
+stray,Anglo-Norman,French,estray,inferred,derived_from,Middle English,French,3.74,stray,native,native,Norse,-2.370365608892769,-2.960866358578548,-0.5905007496857788
+stress,Old French,French,destrecier,inferred,derived_from,Middle English,French,4.73,stress,native,native,native,-1.6085070055620234,-1.6547018606961035,-0.04619485513408006
+sturdy,Old French,French,estourdi,inferred,derived_from,Middle English,French,3.44,sturdi,native,native,native,-1.163469890496924,-1.467954048665865,-0.30448415816894103
+style,Old French,French,style,inferred,derived_from,Middle English,French,5.11,style,native,native,French,-1.3507061605248354,-1.0716348349431433,0.2790713255816921
+styrene,Latin,Latin,styrax,inferred,derived_from,English,Latin,2.54,styren,native,German,German,-2.600710984993117,-3.834676279294114,-1.2339652943009969
+succeed,Old French,French,succeder,inferred,derived_from,English,French,4.29,succeed,native,native,Latin,-1.5421532806520428,-1.5766968898237919,-0.034543609171749035
+suede,French,French,( ) ,explicit,borrowed_from,English,French,3.25,sued,native,Dutch,Dutch,-2.198847213979078,-1.8359442503394992,0.36290296363957864
+supply,Old French,French,soupleer,inferred,derived_from,Middle English,French,4.81,suppli,native,French,French,-0.9498904498687143,-0.7344602466157546,0.2154302032529597
+surround,Middle French,French,souronder,inferred,derived_from,Middle English,French,3.79,surround,native,French,French,-1.1762193468806124,-0.968384958668435,0.20783438821217737
+switch,Middle Dutch,Dutch,swijch,explicit,borrowed_from,English,Dutch,4.6,switch,native,native,native,-2.3976096707311823,-1.4954856922942528,0.9021239784369295
+tattered,Old Norse,Old Norse,tǫturr,inferred,derived_from,Middle English,Norse,2.83,tatter,native,native,native,-2.7371485469197525,-2.1161554670445444,0.6209930798752081
+tawny,Old French,French,tané,inferred,derived_from,Middle English,French,2.77,tawni,native,native,native,-2.085409141529918,-1.3754775509015431,0.7099315906283747
+teat,Old French,French,tete,inferred,derived_from,Middle English,French,2.5,teat,native,native,native,-3.580217872126461,-3.1793840871969237,0.40083378492953736
+tend,Old French,French,tendre,inferred,derived_from,Middle English,French,4.57,tend,native,native,native,-2.1102574977905815,-1.4128365567896937,0.6974209410008878
+tender,Anglo-Norman,French,tender,inferred,derived_from,Middle English,French,4.09,tender,native,French,French,-0.946245942206446,-0.6046207925097803,0.3416251496966657
+tern,Old Norse,Old Norse,þerna,inferred,derived_from,English,Norse,2.72,tern,native,native,native,-2.523947857282145,-1.9729890754528534,0.5509587818292916
+test,Old French,French,test,inferred,derived_from,Middle English,French,5.19,test,native,native,native,-1.7769993676568971,-1.4418935933695634,0.3351057742873338
+tether,Old Norse,Old Norse,tjóðr,inferred,derived_from,Middle English,Norse,2.96,tether,native,native,native,-1.7298944610176101,-2.009782779819701,-0.2798883188020911
+text,Old French,French,texte,inferred,derived_from,Middle English,French,5.01,text,native,native,French,-1.7213050465418018,-1.2786518531049018,0.4426531934369
+theater,Old French,French,theatre,inferred,derived_from,Middle English,French,4.35,theater,native,native,native,-2.3539363377051368,-1.7413121439585708,0.612624193746566
+theatre,Old French,French,theatre,inferred,derived_from,Middle English,French,4.52,theatr,native,native,French,-1.526842045235799,-1.0988111800749647,0.4280308651608342
+theorem,Middle French,French,théorème,inferred,derived_from,English,French,3.71,theorem,native,Greek,Greek,-2.3560074930447694,-2.4374018370777666,-0.08139434403299717
+theory,Middle French,French,théorie,inferred,derived_from,English,French,4.88,theori,native,Latin,Greek,-1.5241026565748024,-1.6251450797971414,-0.10104242322233903
+theses,Latin,Latin,thesēs,explicit,borrowed_from,English,Latin,3.21,these,native,Greek,Greek,-1.6362588999966512,-1.2988520626042077,0.3374068373924435
+they,Old Norse,Old Norse,þeir,inferred,derived_from,Middle English,Norse,6.5,they,native,native,native,-1.66440183864354,-1.4288299096287513,0.23557192901478863
+though,Old Norse,Old Norse,*þóh,inferred,derived_from,Middle English,Norse,5.5,though,native,native,native,-4.732390793837451,-3.8937764339333683,0.8386143599040832
+thrive,Old Norse,Old Norse,þrífa,inferred,derived_from,Middle English,Norse,3.73,thrive,native,native,native,-1.1062757411105641,-1.240497512780953,-0.13422177167038885
+throne,Old French,French,trone,inferred,derived_from,Middle English,French,4.11,throne,native,native,native,-2.494605359061975,-1.8675545725292098,0.627050786532765
+thyme,Old French,French,thym,inferred,derived_from,Middle English,French,3.07,thyme,native,Greek,Greek,-3.330801848281312,-2.1537392886706463,1.1770625596106656
+tiff,Old French,French,tiffer,inferred,derived_from,Middle English,French,3.03,tiff,native,Arabic,Arabic,-1.679337437167647,-2.450091356436782,-0.7707539192691348
+till,Old Norse,Old Norse,til,inferred,derived_from,Middle English,Norse,4.79,till,native,native,native,-1.829797366267161,-1.8214458690302529,0.00835149723690809
+timid,Middle French,French,timide,inferred,derived_from,English,French,3.25,timid,native,native,Latin,-2.2840083277606538,-1.660549188572542,0.6234591391881117
+tinge,Latin,Latin,tingere,inferred,derived_from,English,Latin,2.83,ting,native,native,native,-2.594524912185048,-2.9602099271651605,-0.3656850149801123
+tint,French,French,teinte,inferred,derived_from,English,French,3.22,tint,native,French,French,-1.1114138459974456,-0.9528271708609887,0.15858667513645697
+title,Latin,Latin,titulus,inferred,derived_from,Old English,Latin,5.1,titl,native,French,French,-2.3387721419908196,-2.013794804391885,0.32497733759893466
+toddy,Hindi,Hindi,ताड़ी,explicit,borrowed_from,English,Indic,2.55,toddi,native,Dutch,Dutch,-2.498059144346374,-1.0859910619674762,1.4120680823788978
+tomb,Old French,French,tombe,inferred,derived_from,Middle English,French,3.89,tomb,native,native,French,-2.048499680403994,-1.4907849488557037,0.5577147315482904
+tome,Middle French,French,tome,inferred,derived_from,English,French,3.21,tome,native,Greek,native,-2.6098323224121858,-1.857967905476941,0.7518644169352449
+tone,Latin,Latin,tonus,inferred,derived_from,Middle English,Latin,4.49,tone,native,Italian,native,-3.739928257432176,-3.2315343015705573,0.5083939558616186
+tore,Old Norse,Old Norse,tor-,inferred,derived_from,Middle English,Norse,3.71,tore,native,Norse,Norse,-1.120941954450321,-0.8794247452633374,0.2415172091869836
+tort,Old French,French,tort,inferred,derived_from,Middle English,French,3.1,tort,native,French,French,-1.206784460830107,-1.0343208496966163,0.17246361113349074
+tout,French,French,tout,inferred,derived_from,Old English,French,3.18,tout,native,Dutch,French,-1.452375416180012,-0.9040703150515133,0.5483051011284987
+towel,Old French,French,toaille,inferred,derived_from,Middle English,French,3.94,towel,native,native,native,-2.9642451164893484,-2.650234499965224,0.3140106165241243
+tower,Old French,French,tour,inferred,derived_from,Middle English,French,4.5,tower,native,native,native,-2.9466291214693263,-2.046179277315131,0.9004498441541955
+treat,Anglo-Norman,French,treter,inferred,derived_from,Middle English,French,4.75,treat,native,native,French,-1.386799976381942,-0.8830150137881748,0.5037849625937673
+turn,Old French,French,torner,inferred,derived_from,Middle English,French,5.32,turn,native,native,native,-1.655124648949206,-2.3068599875619205,-0.6517353386127145
+twill,Latin,Latin,bilix,inferred,derived_from,Old English,Latin,2.66,twill,native,native,native,-5.851889454338093,-5.687146540084617,0.16474291425347598
+tye,Old French,French,teie,inferred,derived_from,Old English,French,2.73,tye,native,Japanese,native,-3.2732196294032234,-2.462147585901748,0.8110720435014755
+ugly,Old Norse,Old Norse,uggligr,inferred,derived_from,Middle English,Norse,4.42,ugli,native,native,native,-1.6974371970730389,-1.627799934953049,0.06963726211998988
+uncle,Anglo-Norman,French,uncle,inferred,derived_from,Middle English,French,4.45,uncl,native,native,native,-1.6182775200466657,-1.8064301695892215,-0.18815264954255584
+und,Old French,French,unde,inferred,derived_from,Middle English,French,3.94,und,native,native,native,-6.7141151890418564,-5.737339689911494,0.9767754991303628
+united,Old French,French,unité,inferred,derived_from,English,French,5.47,unit,native,native,native,-2.6479559196768836,-2.4337586229779116,0.21419729669897203
+urn,Old French,French,urne,inferred,derived_from,Middle English,French,3.24,urn,native,native,native,-2.602416070512197,-2.0182542942492483,0.5841617762629485
+use,Old French,French,us,inferred,derived_from,Middle English,French,5.81,use,native,native,native,-1.3229055773099498,-1.1787652113921367,0.1441403659178131
+usher,Anglo-Norman,French,usser,inferred,derived_from,Middle English,French,3.51,usher,native,native,native,-2.082435685438845,-1.9847553479647506,0.09768033747409444
+ut,Latin,Latin,ut,inferred,derived_from,English,Latin,3.72,ut,native,native,native,-4.600186691127598,-3.0038172714343863,1.5963694196932114
+vermouth,French,French,vermout,explicit,borrowed_from,English,French,2.59,vermouth,native,German,Italian,-1.8293531682657107,-2.201701077300523,-0.3723479090348121
+view,Anglo-Norman,French,vewe,inferred,derived_from,Middle English,French,5.19,view,native,native,French,-1.3411817620571056,-0.9208462049958931,0.4203355570612125
+vow,Old French,French,vut,inferred,derived_from,Middle English,French,3.56,vow,native,native,native,-2.775193244318728,-1.8725689014533897,0.9026243428653384
+wand,Old Norse,Old Norse,vǫndr,inferred,derived_from,Middle English,Norse,3.47,wand,native,native,native,-1.5762935481719942,-1.148022570847331,0.4282709773246631
+warden,Anglo-Norman,French,wardein,inferred,derived_from,Middle English,French,3.63,warden,native,native,native,-2.0993356367669227,-2.1186668927340886,-0.019331255967165895
+wardrobe,Old Northern French,French,warderoube,inferred,derived_from,Middle English,French,3.8,wardrob,native,native,French,-1.313851896211062,-1.4811332444510337,-0.16728134823997176
+warrior,Anglo-Norman,French,guerreier,inferred,derived_from,Middle English,French,4.16,warrior,native,French,French,-0.9876127695362993,-0.9718204578629477,0.0157923116733516
+warsaw,Spanish,Spanish,guasa,explicit,borrowed_from,English,Spanish,3.66,warsaw,native,native,German,-5.617417755704909,-5.567133486568035,0.050284269136874116
+waste,Old Northern French,French,wast,inferred,derived_from,Middle English,French,4.81,wast,native,native,native,-2.5909038788689687,-2.4077717823171296,0.18313209655183904
+weak,Old Norse,Old Norse,veikr,inferred,derived_from,Middle English,Norse,4.66,weak,native,Norse,Norse,-0.6933381057317828,-0.7835198180728523,-0.09018171234106953
+whip,Middle Dutch,Dutch,wippen,inferred,derived_from,Middle English,Dutch,4.01,whip,native,native,native,-1.4568724861698445,-1.3109197445389849,0.1459527416308597
+whoa,Old Norse,Old Norse,hó!,inferred,derived_from,Middle English,Norse,3.82,whoa,native,Indic,native,-1.755446630540099,-1.5781315677504515,0.1773150627896476
+whoop,Old French,French,houper,inferred,derived_from,Middle English,French,3.2,whoop,native,Dutch,Dutch,-6.160225534447996,-6.103338534336704,0.056887000111291997
+wile,Old Northern French,French,wile,inferred,derived_from,Middle English,French,2.62,wile,native,Dutch,native,-3.399053826891244,-3.347227084043179,0.05182674284806499
+wilt,Middle Low German,Low German,welken,inferred,derived_from,Middle English,Dutch,3.22,wilt,native,native,native,-3.004516642118398,-4.8040867477201585,-1.7995701056017603
+wince,Anglo-Norman,French,*wenchir,inferred,derived_from,Middle English,French,2.61,winc,native,native,native,-2.7594020515784945,-2.977546868540379,-0.21814481696188448
+window,Old Norse,Old Norse,vindauga,inferred,derived_from,Middle English,Norse,4.8,window,native,native,native,-2.8236719917739803,-2.0254683910309277,0.7982036007430526
+wing,Old Norse,Old Norse,vængr,inferred,derived_from,Middle English,Norse,4.61,wing,native,native,native,-1.5032751776851847,-1.2244440272116153,0.27883115047356943
+wor,Old Norse,Old Norse,várr,inferred,derived_from,English,Norse,2.83,wor,native,native,native,-1.938346705067706,-2.1467116827589874,-0.20836497769128148
+wrong,Old Norse,Old Norse,rangr,explicit,borrowed_from,Middle English,Norse,5.39,wrong,native,native,native,-1.8215658695697223,-1.3035572682443142,0.5180086013254082
+yen,Japanese,Japanese,圓,inferred,derived_from,English,Japanese,3.73,yen,native,native,Japanese,-2.038124850381574,-0.3730770127625785,1.6650478376189954

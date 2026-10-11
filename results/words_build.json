@@ -1,0 +1,29 @@
+{
+ "English entries walked": 68303,
+ "labelled entries": 36329,
+ "entries with a donor class": 33982,
+ "spellings with conflicting labels (dropped)": 0,
+ "common enough (zipf >= 2.5)": 11540,
+ "dropped classes": "Celtic (51), Portuguese (36), Russian (26), Chinese (22), Hebrew (17), Turkish (16), Malay (14), Yiddish (12), Persian (11), Dravidian (9)",
+ "rare words (spelling training only)": 20767,
+ "words": 11326,
+ "classes": {
+  "French": 5030,
+  "native": 2530,
+  "Latin": 2264,
+  "Norse": 296,
+  "Greek": 237,
+  "Dutch": 213,
+  "Spanish": 191,
+  "Italian": 173,
+  "German": 139,
+  "Indic": 107,
+  "Japanese": 81,
+  "Arabic": 65
+ },
+ "kind": {
+  "inferred": 5667,
+  "explicit": 3129,
+  "inherited": 2530
+ }
+}
